@@ -19,7 +19,7 @@ A custom-designed STM32 development board featuring UART, I²C, and USB communic
 - `/docs/` – Datasheets and design notes (optional)
 
 ### Front View – 3D PCB Render
-![STM32 Board Render](./Images/3D_render.png)
+![STM32 Board Render](./Images/3D_render.jpg)
 
 ### Rear View – 3D PCB Render
-![STM32 Board Render](./Images/3D_render_rear.png)
+![STM32 Board Render](./Images/3D_render_rear.jpg)
