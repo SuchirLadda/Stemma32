@@ -17,3 +17,9 @@ A custom-designed STM32 development board featuring UART, I²C, and USB communic
 - `/kicad/` – Schematic and PCB layout
 - `/3d/` – 3D model and board render
 - `/docs/` – Datasheets and design notes (optional)
+
+### Front View – 3D PCB Render
+![STM32 Board Render](./Images/3D_render.png)
+
+### Rear View – 3D PCB Render
+![STM32 Board Render](./Images/3D_render_rear.png)
