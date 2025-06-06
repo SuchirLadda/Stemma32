@@ -4,6 +4,8 @@ Custom STM32 dev board with UART, I²C, USB, and SWD interfaces. Designed in KiC
 ## Overview
 A custom-designed STM32 development board featuring UART, I²C, and USB communication interfaces, intended for embedded systems prototyping and peripheral interfacing. This board is built around the STM32F103C8T6 microcontroller and includes key components such as an external crystal oscillator, onboard boot configuration switch, SWD programming header, and power regulation circuitry.
 
+Pin layout and peripheral configuration were assisted by STM32CubeIDE, which was used to validate the pin mappings and peripheral assignments during design.
+
 ## Features
 - STM32F103C8T6 MCU
 - USB-to-Serial (UART) communication
