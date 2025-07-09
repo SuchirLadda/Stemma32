@@ -37,15 +37,15 @@ PCBWay’s engineering team responds quickly and is very understanding when it c
 ## Physical Board Photos
 
 ### Assembled Board – Front
-![STM32 Board Front](./images/physical_front.jpg)
+![STM32 Board Front](./Images/physical_front.jpg)
 
 ### Assembled Board – Rear
-![STM32 Board Rear](./images/physical_rear.jpg)
+![STM32 Board Rear](./Images/physical_rear.jpg)
 
 ### Power Indicator Test
-![Power LED On](./images/light.jpg)
+![Power LED On](./Images/light.jpg)
 
 ### All Units Assembled
-![Batch of Boards](./images/all_boards.jpg)
+![Batch of Boards](./Images/all_boards.jpg)
 
 
