@@ -29,5 +29,5 @@ Pin layout and peripheral configuration were assisted by STM32CubeIDE, which was
 ## 🤝 Sponsorship
 
 This board was manufactured and assembled with the generous support of **[PCBWay](https://www.pcbway.com/)**.
-The production quality and turnaround time were excellent — from fabrication to component assembly, everything arrived perfectly aligned and functional.
-I highly recommend PCBWay for your custom PCB projects. You can check them out [here](https://www.pcbway.com/) ![PCBWay Logo](https://www.pcbway.com/project/img/logo.png)
+The production quality and turnaround time were excellent. From fabrication to component assembly, everything arrived perfectly aligned and functional.
+I highly recommend PCBWay for your custom PCB projects, the engineering team responds quickly and is very understanding when it comes to resolving issues in the assembly process.
