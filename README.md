@@ -29,11 +29,23 @@ Pin layout and peripheral configuration were assisted by STM32CubeIDE, which was
 ## 🤝 Sponsorship
 
 This board was manufactured and assembled with the generous support of **[PCBWay](https://www.pcbway.com/)**.
-The production quality and turnaround time were excellent. From fabrication to component assembly, everything arrived perfectly aligned and functional.
-I highly recommend PCBWay for your custom PCB projects, the engineering team responds quickly and is very understanding when it comes to resolving issues in the assembly process.
 
-## Physical Board
-![STM32 Board Front](./Images/physical_front.jpg)
-![STM32 Board Front](./Images/physical_rear.jpg)
-![STM32 Board Front](./Images/light.jpg)
+The production quality and turnaround time were excellent. From fabrication to component assembly, everything arrived perfectly aligned and functional.
+
+PCBWay’s engineering team responds quickly and is very understanding when it comes to resolving issues in the assembly process. I highly recommend them for custom PCB projects.
+
+## Physical Board Photos
+
+### Assembled Board – Front
+![STM32 Board Front](./images/physical_front.jpg)
+
+### Assembled Board – Rear
+![STM32 Board Rear](./images/physical_rear.jpg)
+
+### Power Indicator Test
+![Power LED On](./images/light.jpg)
+
+### All Units Assembled
+![Batch of Boards](./images/all_boards.jpg)
+
 
