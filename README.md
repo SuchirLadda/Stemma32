@@ -9,11 +9,12 @@ Pin layout and peripheral configuration were assisted by STM32CubeIDE, which was
 ## Features
 - STM32F103C8T6 MCU
 - USB-to-Serial (UART) communication
-- I²C breakout for peripherals
+- UART and I²C breakout for peripherals
 - SWD programming/debug interface
-- Onboard 3.3V LDO regulator
+- Onboard 3.3V AMS1117 voltage regulator
 - External 8 MHz crystal oscillator
-- KiCad 7 project files included
+- Boot configuration slide switch  
+- KiCad 8 project files included
 
 ## Repository Contents
 - `/kicad/` – Schematic and PCB layout
@@ -24,3 +25,9 @@ Pin layout and peripheral configuration were assisted by STM32CubeIDE, which was
 
 ### Rear View – 3D PCB Render
 ![STM32 Board Render](./Images/3D_render_rear.jpg)
+
+## 🤝 Sponsorship
+
+This board was manufactured and assembled with the generous support of **[PCBWay](https://www.pcbway.com/)**.
+The production quality and turnaround time were excellent — from fabrication to component assembly, everything arrived perfectly aligned and functional.
+I highly recommend PCBWay for your custom PCB projects. You can check them out [here](https://www.pcbway.com/) ![PCBWay Logo](https://www.pcbway.com/project/img/logo.png)
