@@ -31,3 +31,9 @@ Pin layout and peripheral configuration were assisted by STM32CubeIDE, which was
 This board was manufactured and assembled with the generous support of **[PCBWay](https://www.pcbway.com/)**.
 The production quality and turnaround time were excellent. From fabrication to component assembly, everything arrived perfectly aligned and functional.
 I highly recommend PCBWay for your custom PCB projects, the engineering team responds quickly and is very understanding when it comes to resolving issues in the assembly process.
+
+## Physical Board
+![STM32 Board Front](./Images/physical_front.jpg)
+![STM32 Board Front](./Images/physical_rear.jpg)
+![STM32 Board Front](./Images/light.jpg)
+
